@@ -7,3 +7,7 @@ function addition(a, b){
   return a + b;
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
