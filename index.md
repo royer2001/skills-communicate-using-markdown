@@ -68,4 +68,3 @@ Una plataforma para comprar y vender productos en línea.
 Puedes contactarme a través de mis redes sociales o enviándome un correo a mi dirección de email@example.com.
 
 ![Imagen de Ejemplo](https://via.placeholder.com/150)
-```
